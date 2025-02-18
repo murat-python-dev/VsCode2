@@ -1,0 +1,10 @@
+Git – GitHub
+
+A ) YEREL (LOCAL) ÇALIŞMALAR 
+
+1.	Git kurulumu ve yapılandırma : Eğer Git yüklü değilse, öncelikle yüklemelisin.
+
+https://git-scm.com/downloads
+
+Git’in kurulu olup olmadığını kontrol edin :
+git --version	
